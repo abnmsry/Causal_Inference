@@ -1,5 +1,11 @@
 assignments:
-  - name: Assignment 1
-    link: ../assets/assignments/orca.pdf
-  - name: Assignment 2
-    link: ../assets/assignments/orca.pdf
+  - name: HW1
+    link: ../assets/assignments/HW1.pdf
+  - name: HW2
+    link: ../assets/assignments/HW2.pdf
+  - name: HW3
+    link: ../assets/assignments/HW1.pdf
+  - name: Midterm
+    link: ../assets/assignments/Midterm.pdf
+  - name: Final
+    link: ../assets/assignments/Final.pdf
