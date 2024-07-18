@@ -6,8 +6,8 @@ navbar:
       sub_link: /#Course Description
     - subtab: Instructors
       sub_link: /#Instructors
-    - subtab: FAQs
-      sub_link: /#FAQs
+    # - subtab: FAQs
+    #   sub_link: /#FAQs
 
 
   - tabname: SCHEDULE
@@ -38,5 +38,5 @@ navbar:
       sub_link: resources#Lecture Slides  
     - subtab: Online Resources
       sub_link: resources#Online Resources  
-    - subtab: Misc Links
-      sub_link: resources#Misc Links 
+    # - subtab: Misc Links
+    #   sub_link: resources#Misc Links 
