@@ -1,5 +1,9 @@
 content:
-- p: <p>Lots of the questions in scientic and policy research are often causal. In this class, we will introduce students to different theoretical frameworks from the perspectives of causal inference and introduce common statistical methods crucial to the practice of causal inference. </p>
-- p: <p>In terms of theoretical frameworks, we will discuss potential outcomes, causal graphs, randomization, model-based inference, and causal mediation analysis.</p>
-- p: <p>In terms of statistical tools, we will cover various methodologies including randomized experiments, matching, inverse probability weighting, dynamic causal models, and statistical methods for mediation analysis. We will also analyze the strengths and weaknesses of these methods.</p> 
-- p: <p>The course will draw upon examples from social sciences, public health, and other disciplines. We will illustrate applications of the approaches using R software. Students will be evaluated and will deepen the understanding of the statistical principles underlying the approaches as well as their application in homework assignments, group presentations, a in-class midterm, and a take home final exam.</p>
+- p: <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+- p: <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+- p: <p>Quis lectus nulla at volutpat diam ut venenatis tellus in. Neque sodales ut etiam sit amet nisl prus in. 
+    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Lacus laoreet non curabitur gravida. </p> 
+- p: <p>Vitae aliquet nec ullamcorper sit amet. Egestas integer eget aliquet nibh praesent tristique. 
+    Neque ornare aenean euismod elementum nisi quis eleifend. Suspendisse interdum consectetur libero id faucibus nisl.</p>
