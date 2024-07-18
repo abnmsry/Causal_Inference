@@ -6,7 +6,17 @@ permalink: /schedule/
     <div class="wrap">
         <div class="head-decor" style="height: 70vh; width: 60vw; margin-top: 1em;">
             <h1 class="head-title" id="Schedule">Schedule</h1>
-            <p>
+<!--             <p>
+                {{site.data.schedule.schedule.plan}}
+            </p> -->
+            <table>
+                <thread>
+                    <tr>
+                        <th>Date</th>
+                        <th>Content</th>
+                    </tr>
+                </thread>
+                <tbody>
                 {% for item in site.data.schedule.schedule.plan}
                     <tr>
                         <td>{{ item.Date }}</td>
@@ -14,8 +24,8 @@ permalink: /schedule/
                         <td>{{ item.Reading }}</td>
                     </tr>
                 {% endfor %}
-<!--                 {{site.data.schedule.schedule.plan}} -->
-            </p>
+                </tbody>
+            </table>
 <!--             <br><hr><br>
             <h1 class="standard-title" id="Class Time & Location">Class Time & Location</h1>
             <p>
