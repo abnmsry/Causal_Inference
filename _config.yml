@@ -5,7 +5,7 @@ description: > # short discription of your website. It is helpful for making you
 baseurl: "Causal_Inference"   # specify the subpath of your site
 url: "https://abnmsry.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: #
-github_username: abnmsry#
+github_username: abnmsry #
 theme: minima
 plugins:
   - jekyll-feed
