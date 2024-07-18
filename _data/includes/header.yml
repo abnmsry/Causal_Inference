@@ -19,12 +19,12 @@ navbar:
   - tabname: SYLLABUS
     link: syllabus
     subtopic:
-    - subtab: Technology
-      sub_link: syllabus#technology  
+    - subtab: Prerequisites
+      sub_link: syllabus#Prerequisites  
     - subtab: Materials
       sub_link: syllabus#Materials 
-    - subtab: Late Policy
-      sub_link: syllabus#Late Policy
+    # - subtab: Late Policy
+    #   sub_link: syllabus#Late Policy
     - subtab: Grading Policy
       sub_link: syllabus#Grading Policy 
 
