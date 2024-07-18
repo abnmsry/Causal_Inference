@@ -1,5 +1,7 @@
 resource: 
-  - topic: Resource 1
-    link: http://example.com/res1/path
-  - topic: Resource 2
-    link: http://example.com/res2/path  
+  - topic: Causal Inference
+    link: '../assets/Causal Inference_whatif.pdf'
+  - topic: Causal inference in statistics, social, and biomedical sciences.
+    link: '../assets/Causal_Inferenc_statistics, social, and biomedical sciences.pdf'
+  - topic: Syllabus
+    link: '../assets/syllabus.pdf'
