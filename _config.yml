@@ -1,7 +1,7 @@
 title: COURSE TITLE # title which appears for the website
 email: #your-email@example.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
-  Website
+  
 baseurl: "Causal_Inference"   # specify the subpath of your site
 url: "https://abnmsry.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: #
