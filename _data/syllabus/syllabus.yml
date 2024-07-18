@@ -1,8 +1,6 @@
 syllabus:
   - heading: Prerequisites
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    content: "Competence of coding in some programming language, entry level math, intermediate level i probability and statistics, ability to read book chapters and scientific papers in English"
 
   - heading: Materials  
     content: " {Recommended Materials} <br>
