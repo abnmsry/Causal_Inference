@@ -1,27 +1,23 @@
 syllabus:
   - heading: Prerequisites
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    content: "Competence of coding in some programming language, entry level math, intermediate level in probability and statistics, ability to read book chapters and scientic papers (in English)."
 
-  - heading: Materials  
-    content: " {Recommended Materials} <br>
-      Massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed.
-      Arcu non sodales neque sodales ut etiam sit amet. Morbi quis commodo odio aenean. 
-      Enim nulla aliquet porttitor lacus luctus accumsan.     <br><br>
-     <h3>Homeworks</h3>
-     There will be regular homeworks after lectures. 
-     <br>    
-     <h3>Slides</h3>
-     We will post slides on the course website after each lecture.
-     <br>"
+  - heading: References  
+    content: "
+      <h3>Reference</h3>
+      Hernan MA, Robins JM (2019). Causal Inference. Boca Raton: Chapman & Hall/CRC, preprint. 
+      <br>    
+      <h3>Suggested reference</h3>
+      Imbens, G. W., & Rubin, D. B. (2015). Causal inference in statistics, social, and biomedical sciences. Cambridge University Press.
+      <br>"
 
-  - heading: Late Policy  
-    content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
-      Mattis vulputate enim nulla aliquet. Odio ut sem nulla pharetra diam sit amet. 
-      Suspendisse interdum consectetur libero id faucibus nisl."
+  # - heading: Late Policy  
+  #   content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
+  #     Mattis vulputate enim nulla aliquet. Odio ut sem nulla pharetra diam sit amet. 
+  #     Suspendisse interdum consectetur libero id faucibus nisl."
 
   - heading: Grading Policy 
-    content: " <ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    content: " <ul><li>Assignments: 30% (10%*3) </li>
+                <li>Midterm exam (in-class): 25% </li>
+                <li>Presentation: 20% </li>
+                <li>Final Exams: 25% </li></ul>"
