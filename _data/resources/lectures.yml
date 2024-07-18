@@ -3,7 +3,7 @@ lecture:
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/slides/Causal_1.pptx'
+          link: '../assets/slides/Causal_1.pdf'
   - lec: 'Lecture 2: Randomized experiment'
     resources:
       - resource:
@@ -14,7 +14,7 @@ lecture:
       - resource:
           type: 'Slides'
           link: '../assets/notes/Causal_3.pdf'
-  - lec: 'Lecture 4: Eect modication & interaction'
+  - lec: 'Lecture 4: Effect modification & interaction'
     resources:
       - resource:
           type: 'Slides'
@@ -29,4 +29,3 @@ lecture:
       - resource:
           type: 'Slides'
           link: '../assets/notes/Causal_6.pdf'
-  
