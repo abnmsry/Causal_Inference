@@ -1,40 +1,32 @@
 lecture:
-  - lec: 'Lecture 1: Topic Name1' #edit Topic Name
+  - lec: 'Lecture 1: Course overview & Definitions' #edit Topic Name
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/slides/orca.pptx'
-      - resource:
-          type: 'Notes'
-          link: '../assets/notes/orca.pdf'
-      - resource:
-          type: 'Extra Reading'
-          link: '#'
-  - lec: 'Lecture 2: Topic Name2'
+          link: '../assets/slides/Causal_1.pdf'
+  - lec: 'Lecture 2: Randomized experiment'
     resources:
       - resource:
-          type: 'Notes'
-          link: '../assets/notes/orca.pdf'
-  - lec: 'Lecture 3: Topic Name3'
+          type: 'Slides'
+          link: '../assets/notes/Causal_2.pdf'
+  - lec: 'Lecture 3: Observational Study'
     resources:
       - resource:
-          type: 'Extra Reading'
-          link: '#'
-      - resource:
-          type: 'Video Lecture'
-          link: '#'
-  - lec: 'Lecture 4: Topic Name4'
+          type: 'Slides'
+          link: '../assets/notes/Causal_3.pdf'
+  - lec: 'Lecture 4: Effect modification & interaction'
     resources:
       - resource:
-          type: 'Video Lecture'
-          link: '#'
+          type: 'Slides'
+          link: '../assets/notes/Causal_4.pdf'
+  - lec: 'Lecture 5: DAG'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/notes/Causal_5.pdf'
+  - lec: 'Lecture 6: Confounding & Selection bias'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/notes/Causal_6.pdf'
   
-# - lec: 'Lecture 5: Topic Name5'
-#   resources:
-#     - resource:
-#         type: 'Slides'
-#         link: ''
-
-
-# (Uncomment the above code to add Lecture 4 and its links.
-#   You can add more lectures & resource in same format.)      
