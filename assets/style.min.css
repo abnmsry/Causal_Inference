@@ -28,6 +28,11 @@ ul>li{
 .page-content{
   padding: 1em;
 }
+.scrollable-table-container {
+    max-height: 300px; /* 根据需要调整高度 */
+    overflow-y: auto;
+    border: 1px solid #ccc; /* 给容器添加边框 */
+}
 
 .images{
   display: flex;
