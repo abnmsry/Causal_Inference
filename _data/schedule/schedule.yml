@@ -1,4 +1,5 @@
 plan:
+    table:
     - Date: "March 1"
       Content: "Course overview & intro"
       Reading: "None"
